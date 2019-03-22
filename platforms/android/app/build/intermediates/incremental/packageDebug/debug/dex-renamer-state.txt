@@ -1,0 +1,4 @@
+#Fri Mar 22 15:37:55 IST 2019
+base.0=D\:\\cordova\\ocr\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

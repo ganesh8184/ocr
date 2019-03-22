@@ -1,0 +1,24 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.example.ocr"
+    },
+    "cordova-plugin-document-scanner": {
+      "PACKAGE_NAME": "com.example.ocr"
+    },
+    "cordova-plugin-mobile-ocr": {
+      "PACKAGE_NAME": "com.example.ocr"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.example.ocr"
+    }
+  },
+  "dependent_plugins": {}
+}

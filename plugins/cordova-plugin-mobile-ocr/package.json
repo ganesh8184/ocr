@@ -1,0 +1,70 @@
+{
+  "_from": "cordova-plugin-mobile-ocr",
+  "_id": "cordova-plugin-mobile-ocr@2.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-JiGkXwIIEWdFRumyKU/vyxAGuzhGrG+hcRbwsLOkzBw+13WzUM7Y9GUnoPX8GIPAZSCvwpx6QgI+bZxQKIQSXg==",
+  "_location": "/cordova-plugin-mobile-ocr",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-mobile-ocr",
+    "name": "cordova-plugin-mobile-ocr",
+    "escapedName": "cordova-plugin-mobile-ocr",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-mobile-ocr/-/cordova-plugin-mobile-ocr-2.0.0.tgz",
+  "_shasum": "20824740bea7b6f4f1c2cbbd3038417d804a8306",
+  "_spec": "cordova-plugin-mobile-ocr",
+  "_where": "D:\\cordova\\ocr",
+  "author": {
+    "name": "jatahworx"
+  },
+  "bugs": {
+    "url": "https://github.com/NeutrinosPlatform/cordova-plugin-mobile-ocr/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-mobile-ocr",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "cordova plugin for mobile ocr text recognition",
+  "engines": {
+    "cordovaDependencies": {
+      "cordova-android": ">=6.4.0",
+      "cordova-ios": ">=4.3.0"
+    }
+  },
+  "homepage": "https://github.com/NeutrinosPlatform/cordova-plugin-mobile-ocr#readme",
+  "keywords": [
+    "cordova",
+    "text",
+    "ocr",
+    "text recognition",
+    "optical",
+    "character",
+    "recognition",
+    "optical character recognition",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "mobile ocr"
+  ],
+  "license": "ISC",
+  "name": "cordova-plugin-mobile-ocr",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeutrinosPlatform/cordova-plugin-mobile-ocr.git"
+  },
+  "version": "2.0.0"
+}
